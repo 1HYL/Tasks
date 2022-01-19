@@ -32,7 +32,7 @@
 - 重新定基
 ----------------
 
-# [Htlm](https://github.com/1HYL/Tasks/blob/main/%3D%3Dhtml%E6%A0%87%E7%AD%BE%3D%3D.md)
+# [Html](https://github.com/1HYL/Tasks/blob/main/%3D%3Dhtml%E6%A0%87%E7%AD%BE%3D%3D.md)
 ==目录==
  - 一、HTML标签
  - 排版标签
